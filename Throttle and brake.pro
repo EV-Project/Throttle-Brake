@@ -1,4 +1,4 @@
-update=Tue 25 Oct 2016 14:28:08 AWST
+update=Tue 22 Nov 2016 10:47:06 AWST
 version=1
 last_client=kicad
 [pcbnew]
@@ -27,7 +27,7 @@ NetIExt=net
 version=1
 [eeschema]
 version=1
-LibDir=/home/engineering/Documents/electric_car_lib
+LibDir=../electric_car_lib
 [eeschema/libraries]
 LibName1=power
 LibName2=device
